@@ -1,2 +1,4 @@
 /node_modules
-/content/big.txt
+/content/first.txt
+notes.*
+01-node-tutorial/notes.*
