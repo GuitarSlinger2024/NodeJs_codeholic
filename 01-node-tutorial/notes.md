@@ -31,3 +31,5 @@ git reset --hard HEAD~1                 Delete the last commit from the main bra
 
 #           Interactive Rebase - do not change anything that has been pushed to the remote
 git rebase -i HEAD~#                    The # is the number of steps to go back
+
+
