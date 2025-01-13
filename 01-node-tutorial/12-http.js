@@ -26,7 +26,7 @@ const server = http.createServer((req, res) => {
   `)
   } else if (req.url === '/about') {
     res.end(`
-    <h1>About</h1>
+    <h1>About Face</h1>
     <p>Here is our short history</p>
     <a href="/">Home</a>
     `)
